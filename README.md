@@ -80,6 +80,6 @@
   <br/>
   <p align="center">
     <a href="https://github.com/CR4CKSTEIN/nextjs-tailwind-react-typescript">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=CR4CKSTEIN&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=CR4CKSTEIN&repo=nextjs-tailwind-react-typescript&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
 </details>
