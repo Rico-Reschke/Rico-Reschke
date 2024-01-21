@@ -83,21 +83,3 @@
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=CR4CKSTEIN&repo=echat&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
 </details>
-
-<details>
-  <summary><b>⚙️ &nbsp;DevOps</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Don-Cryptus/traefik">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=traefik&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-    <a href="https://github.com/Don-Cryptus/portainer">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=portainer&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Don-Cryptus/self-hosted-runner">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=don-cryptus&repo=self-hosted-runner&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
