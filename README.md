@@ -71,8 +71,6 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR4CKSTEIN&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Don-Cryptus&theme=onedark&column=-1)
-
 ## ⭐ My Projects
 
 <details>
